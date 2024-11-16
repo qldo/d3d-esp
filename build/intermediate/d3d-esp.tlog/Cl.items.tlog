@@ -1,0 +1,6 @@
+C:\Code\visualstudio\d3d-esp\src\main.cpp;C:\Code\visualstudio\d3d-esp\build\intermediate\main.obj
+C:\Code\visualstudio\d3d-esp\src\minhook\buffer.c;C:\Code\visualstudio\d3d-esp\build\intermediate\buffer.obj
+C:\Code\visualstudio\d3d-esp\src\minhook\hde\hde32.c;C:\Code\visualstudio\d3d-esp\build\intermediate\hde32.obj
+C:\Code\visualstudio\d3d-esp\src\minhook\hde\hde64.c;C:\Code\visualstudio\d3d-esp\build\intermediate\hde64.obj
+C:\Code\visualstudio\d3d-esp\src\minhook\hook.c;C:\Code\visualstudio\d3d-esp\build\intermediate\hook.obj
+C:\Code\visualstudio\d3d-esp\src\minhook\trampoline.c;C:\Code\visualstudio\d3d-esp\build\intermediate\trampoline.obj
